@@ -1,0 +1,11 @@
+learn git 
+mkdir mygit
+cd mygit 
+touch readme
+git init
+git add readme
+git commit -m "add readme"
+git status
+ 
+ 
+
